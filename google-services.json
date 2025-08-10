@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "755571029020",
+    "project_id": "banjir-2e906",
+    "storage_bucket": "banjir-2e906.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755571029020:android:69c01fddf7f71fdd195bd9",
+        "android_client_info": {
+          "package_name": "com.sahl101122411.proyekbanjir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755571029020-sip5492asbqupudueutigb9iomnq6jvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sahl101122411.proyekbanjir",
+            "certificate_hash": "02ea62e11a8cc83b75cf98b023453b84baf5184c"
+          }
+        },
+        {
+          "client_id": "755571029020-t5gk8vlptspk5shhbd6q8ujip5d4tvq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbgyYVgso6WG4FdoXr_raWl50IRjiL-Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755571029020-t5gk8vlptspk5shhbd6q8ujip5d4tvq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
